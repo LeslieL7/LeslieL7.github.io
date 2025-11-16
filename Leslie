@@ -1,0 +1,12 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Meu Site</title>
+</head>
+<body>
+  <h1>Bem-vindo ao meu site!</h1>
+  <p>Site para achar contatos de lan houses, ferro-velhos e lojas de eletrônicos.</p>
+</body>
+</html>
